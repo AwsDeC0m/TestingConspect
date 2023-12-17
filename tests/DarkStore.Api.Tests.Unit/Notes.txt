@@ -1,0 +1,42 @@
+﻿[
+	[
+	  {
+		"timeFrom": 0,
+		"timeTo": 8,
+		"EmployeesCount": 10
+	  },
+	  {
+		"timeFrom": 8,
+		"timeTo": 16,
+		"EmployeesCount": 30
+	  },
+	  {
+		"timeFrom": 16,
+		"timeTo": 0,
+		"EmployeesCount": 5
+	  }
+	],
+	[
+	  {
+		"timeFrom": 0,
+		"timeTo": 6,
+		"EmployeesCount": 11
+	  },
+	  {
+		"timeFrom": 6,
+		"timeTo": 12,
+		"EmployeesCount": 33
+	  },
+	  {
+		"timeFrom": 12,
+		"timeTo": 18,
+		"EmployeesCount": 20
+	  },
+	  {
+		"timeFrom": 18,
+		"timeTo": 0,
+		"EmployeesCount": 10
+	  }
+	]
+
+]
